@@ -1,0 +1,19 @@
+{
+  "name": "tour",
+  "version": "1.0.0",
+  "description": "Tour Planning",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.0.0-beta.2",
+    "mongoose": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
